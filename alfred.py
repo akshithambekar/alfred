@@ -4,7 +4,7 @@ import spacy
 
 client = openai.OpenAI()
 
-weather_api_key = "57e390f9102ded21a4ddc8d410d507e7"
+weather_api_key = "xxxxxx"
 nlp = spacy.load("en_core_web_sm")
 
 def get_weather(loc): # get weather data from OpenWeatherMap
