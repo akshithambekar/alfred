@@ -17,7 +17,7 @@ The ```alfred_response()``` handles the conversation logic. A prompt tip is give
 
 # How to run
 On the CLI, once in the file directory, type the following command to set the API key for OpenAI:
-```export OPENAI_API_KEY="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"```
+```export OPENAI_API_KEY="<your-api-key>"```
 This is needed to ensure that you can use the GPT model.
 
 Then run the alfred.py file:
